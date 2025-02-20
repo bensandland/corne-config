@@ -57,7 +57,7 @@
             bindings = <
 &kp TAB    &kp EXCL         &kp DA_AT_SIGN  &kp DA_HASH  &kp DA_DOLLAR  &kp DA_PERCENT    &kp DA_CARET  &kp PAGE_UP       &kp UP    &kp PAGE_DOWN     &kp DA_EQUAL     &kp DELETE
 &kp LSHFT  &kp DA_ASTERISK  &kp DA_DQT      &trans       &kp DA_EURO    &kp DA_ACUTE      &kp HOME      &kp LEFT_ARROW    &kp DOWN  &kp RIGHT         &kp DA_QUESTION  &kp END
-&kp LCTRL  &trans           &trans          &trans       &trans         &trans            &kp DA_TILDE  &kp LG(LEFT_ALT)  &trans    &kp DA_AMPERSAND  &kp DA_PIPE      &kp INS
+&kp LCTRL  &trans           &trans          &trans       &trans         &trans            &kp DA_TILDE  &kp LC(LEFT_ALT)  &trans    &kp DA_AMPERSAND  &kp DA_PIPE      &kp ESC
                                             &kp LGUI     &trans         &kp SPACE         &kp RET       &trans            &kp RALT
             >;
         };
