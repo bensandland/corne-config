@@ -39,10 +39,10 @@
 
             display-name = "Lower";
             bindings = <
-&kp LA(TAB)  &kp N1            &kp N2               &kp N3    &kp N4  &kp N5       &kp N6             &kp N7                   &kp N8                    &kp N9              &kp N0        &kp DA_A_RING
-&kp LC(TAB)  &trans            &trans               &trans    &trans  &trans       &kp DA_LEFT_BRACE  &kp DA_LEFT_PARENTHESIS  &kp DA_RIGHT_PARENTHESIS  &kp DA_RIGHT_BRACE  &kp DA_AE     &kp DA_O_SLASH
-&kp LSHFT    &kp DA_LESS_THAN  &kp DA_GREATER_THAN  &trans    &trans  &trans       &kp DA_BACKSLASH   &kp DA_LEFT_BRACKET      &kp DA_RIGHT_BRACKET      &kp DA_FSLH         &kp DA_COLON  &kp DA_UNDERSCORE
-                                                    &kp LGUI  &trans  &kp SPACE    &kp RET            &trans                   &kp RALT
+&kp LA(TAB)     &kp N1            &kp N2               &kp N3    &kp N4  &kp N5       &kp N6             &kp N7                   &kp N8                    &kp N9              &kp N0        &kp DA_A_RING
+&kp LEFT_SHIFT  &trans            &trans               &trans    &trans  &trans       &kp DA_LEFT_BRACE  &kp DA_LEFT_PARENTHESIS  &kp DA_RIGHT_PARENTHESIS  &kp DA_RIGHT_BRACE  &kp DA_AE     &kp DA_O_SLASH
+&kp LC(TAB)     &kp DA_LESS_THAN  &kp DA_GREATER_THAN  &trans    &trans  &trans       &kp DA_BACKSLASH   &kp DA_LEFT_BRACKET      &kp DA_RIGHT_BRACKET      &kp DA_FSLH         &kp DA_COLON  &kp DA_UNDERSCORE
+                                                       &kp LGUI  &trans  &kp SPACE    &kp RET            &trans                   &kp RIGHT_ALT
             >;
         };
 
